@@ -9,7 +9,139 @@
       "placeholder_path": "./photos/Little Hands/IMG-20181227-WA0007.placeholder.jpg"
     }
   ],
+  "More": [
+    {
+      "width": 1400,
+      "height": 2044,
+      "path": "./photos/More/1427372377420.jpg",
+      "compressed_path": "./photos/More/1427372377420.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/1427372377420.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/More/20150322_232436.jpg",
+      "compressed_path": "./photos/More/20150322_232436.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20150322_232436.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/More/20151203_132541.jpg",
+      "compressed_path": "./photos/More/20151203_132541.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20151203_132541.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/More/20151203_132758.jpg",
+      "compressed_path": "./photos/More/20151203_132758.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20151203_132758.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 1836,
+      "path": "./photos/More/20161128_110429.jpg",
+      "compressed_path": "./photos/More/20161128_110429.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20161128_110429.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 1836,
+      "path": "./photos/More/20161128_110440.jpg",
+      "compressed_path": "./photos/More/20161128_110440.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20161128_110440.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 1836,
+      "path": "./photos/More/20170208_150214.jpg",
+      "compressed_path": "./photos/More/20170208_150214.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20170208_150214.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/More/20170530_061816.jpg",
+      "compressed_path": "./photos/More/20170530_061816.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/More/20170530_061816.placeholder.jpg"
+    }
+  ],
+  "NO ERES VALIDO": [
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/NO ERES VALIDO/20170516_042300.jpg",
+      "compressed_path": "./photos/NO ERES VALIDO/20170516_042300.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/NO ERES VALIDO/20170516_042300.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/NO ERES VALIDO/20170516_042338.jpg",
+      "compressed_path": "./photos/NO ERES VALIDO/20170516_042338.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/NO ERES VALIDO/20170516_042338.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/NO ERES VALIDO/20170516_042638.jpg",
+      "compressed_path": "./photos/NO ERES VALIDO/20170516_042638.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/NO ERES VALIDO/20170516_042638.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/NO ERES VALIDO/20170516_045402.jpg",
+      "compressed_path": "./photos/NO ERES VALIDO/20170516_045402.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/NO ERES VALIDO/20170516_045402.placeholder.jpg"
+    },
+    {
+      "width": 5312,
+      "height": 2988,
+      "path": "./photos/NO ERES VALIDO/20170516_052900.jpg",
+      "compressed_path": "./photos/NO ERES VALIDO/20170516_052900.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/NO ERES VALIDO/20170516_052900.placeholder.jpg"
+    }
+  ],
   "Sketches": [
+    {
+      "width": 1400,
+      "height": 2044,
+      "path": "./photos/Sketches/1426527169415.jpg",
+      "compressed_path": "./photos/Sketches/1426527169415.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/1426527169415.placeholder.jpg"
+    },
+    {
+      "width": 3771,
+      "height": 2121,
+      "path": "./photos/Sketches/2016-05-10 17.02.39.jpg",
+      "compressed_path": "./photos/Sketches/2016-05-10 17.02.39.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/2016-05-10 17.02.39.placeholder.jpg"
+    },
+    {
+      "width": 3264,
+      "height": 2448,
+      "path": "./photos/Sketches/20160928_074504.jpg",
+      "compressed_path": "./photos/Sketches/20160928_074504.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/20160928_074504.placeholder.jpg"
+    },
     {
       "width": 900,
       "height": 1600,
@@ -17,6 +149,14 @@
       "compressed_path": "./photos/Sketches/IMG-20170904-WA0000.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Sketches/IMG-20170904-WA0000.placeholder.jpg"
+    },
+    {
+      "width": 720,
+      "height": 1280,
+      "path": "./photos/Sketches/Sketch146142449.jpg",
+      "compressed_path": "./photos/Sketches/Sketch146142449.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Sketches/Sketch146142449.placeholder.jpg"
     }
   ]
 }
